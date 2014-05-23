@@ -1,6 +1,6 @@
-iDroid Project openiBoot
----------------------------------------------------
-	Copyright (C) 2008 David Wang (planetbeing).
+OnyxProject - openiBoot 
+---------------------------------------------
+	Copyright (C) 2014 Justin Maanao(pwnk1d).
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
